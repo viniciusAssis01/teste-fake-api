@@ -1,0 +1,23 @@
+{
+    "users": [
+          {
+            "id": 1,
+            "name": "Fulano1",
+            "email": "aluno@mail.com",
+            "password": "$2a$10$umY7sqEVm0tTKeQO4G5fq.EjNfOfSnBrv0ztmzoFehZFdV39lU5ca",
+            "birthdate": "25/08/92",
+            "img": "https://cdn-icons-png.flaticon.com/512/17/17004.png"
+          }
+    ],
+
+    "pets":[
+        {
+            "id": 1,
+            "name": "Luluzinho da pomeraniazinha",
+            "img": "https://images.pexels.com/photos/8473518/pexels-photo-8473518.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "description": "oia q lindinhu meu luluzinho da pomeraniazinha",
+            "adoption": "Não",
+            "userId": 1
+        }
+    ]
+}
